@@ -1,0 +1,24 @@
+{
+  "name": "cabrillo",
+  "version": "0.1.0",
+  "description": "cabrillo Ham radio log conversion lib",
+  "main": "dist/cabrillo.js",
+  "scripts": {
+    "example": "node example/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuYanDev/cabrillo.js.git"
+  },
+  "keywords": [
+    "Ham",
+    "radio",
+    "log"
+  ],
+  "author": "YuYanDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/YuYanDev/cabrillo.js/issues"
+  },
+  "homepage": "https://github.com/YuYanDev/cabrillo.js#readme"
+}

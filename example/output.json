@@ -1,0 +1,190 @@
+{
+    "CABRILLO-VERSION": "3.0",
+    "CONTEST": "NAQP-CW",
+    "LOCATION": "CA",
+    "CALLSIGN": "N5KO",
+    "CATEGORY-OPERATOR": "SINGLE-OP",
+    "CATEGORY-TRANSMITTER": "ONE",
+    "CATEGORY-ASSISTED": "NON-ASSISTED",
+    "CATEGORY-BAND": "ALL",
+    "CATEGORY-POWER": "LOW",
+    "CATEGORY-MODE": "CW",
+    "CATEGORY-STATION": "FIXED",
+    "CLAIMED-SCORE": "404670",
+    "NAME": "Trey Garlough",
+    "SOAPBOX": [
+        {
+            "SOAPBOX": ""
+        }
+    ],
+    "QSO": [
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1800",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "N4PN",
+            "rcvdname": "PAUL",
+            "rcvdexch": "GA"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1800",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "VE3NZ",
+            "rcvdname": "BEN",
+            "rcvdexch": "ON"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1801",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "K6DGW",
+            "rcvdname": "SKIP",
+            "rcvdexch": "CA"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1801",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "AA4LR",
+            "rcvdname": "BILL",
+            "rcvdexch": "GA"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1802",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "K6RB",
+            "rcvdname": "ROB",
+            "rcvdexch": "CA"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1802",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "WA1S",
+            "rcvdname": "ANN",
+            "rcvdexch": "GA"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1802",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "AF8A",
+            "rcvdname": "GARY",
+            "rcvdexch": "OH"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1802",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "W6CT",
+            "rcvdname": "SCOTT",
+            "rcvdexch": "CA"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1803",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "K6GHA",
+            "rcvdname": "DON",
+            "rcvdexch": "CA"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1803",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "HI8A",
+            "rcvdname": "AKI",
+            "rcvdexch": "DX"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1803",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "W2CDO",
+            "rcvdname": "PETER",
+            "rcvdexch": "MD"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1804",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "NE8J",
+            "rcvdname": "HOWARD",
+            "rcvdexch": "MI"
+        },
+        {
+            "freq": "21048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1804",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "KH6LC",
+            "rcvdname": "LLOYD",
+            "rcvdexch": "HI"
+        },
+        {
+            "freq": "28048",
+            "mo": "CW",
+            "date": "2014-01-11",
+            "time": "1804",
+            "sentcall": "N5KO",
+            "sentname": "TREY",
+            "sentexch": "CA",
+            "rcvdcall": "K8JQ",
+            "rcvdname": "STEVE",
+            "rcvdexch": "WV"
+        }
+    ]
+}
